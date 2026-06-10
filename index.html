@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Festa Final Minibasquete | Jogos</title>
+  <meta name="description" content="Consulta de jogos, horários, escalões, equipas e campos da Festa Final do Minibasquete.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__top">
+      <img src="logo-sdc-branco.png" alt="Sangalhos Desporto Clube" class="logo">
+      <div>
+        <p class="eyebrow">Época 2025 | 2026</p>
+        <h1>Festa Final<br><span>Minibasquete</span></h1>
+        <p class="place">Complexo Desportivo de Sangalhos</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card controls">
+      <label>
+        Pesquisar equipa
+        <input id="searchInput" type="search" placeholder="Ex.: Sangalhos, Esgueira, Galitos...">
+      </label>
+
+      <label>
+        Escalão
+        <select id="escalaoFilter">
+          <option value="">Todos os escalões</option>
+        </select>
+      </label>
+
+      <label>
+        Campo
+        <select id="campoFilter">
+          <option value="">Todos os campos</option>
+        </select>
+      </label>
+
+      <label>
+        Pavilhão
+        <select id="pavilhaoFilter">
+          <option value="">Todos os pavilhões</option>
+        </select>
+      </label>
+
+      <button id="clearBtn" type="button">Limpar filtros</button>
+    </section>
+
+    <section class="summary" id="summary"></section>
+
+    <section id="gamesList" class="games"></section>
+
+    <section class="info card">
+      <h2>Informação</h2>
+      <p>Esta página mostra apenas horários, equipas, escalões e campos. Não apresenta resultados.</p>
+      <p class="small">Sugestão: partilhe esta página com os pais através de QR Code.</p>
+    </section>
+  </main>
+
+  <footer>
+    <strong>Sangalhos Desporto Clube</strong>
+    <span>Formar Pessoas. Formar Atletas.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

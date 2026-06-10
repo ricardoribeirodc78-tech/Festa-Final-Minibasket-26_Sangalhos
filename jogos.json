@@ -1,0 +1,782 @@
+[
+  {
+    "escalao": "Sub-10",
+    "horario": "14:30",
+    "jogo": "1",
+    "codigo": "1",
+    "equipaA": "Sangalhos A",
+    "equipaB": "Atómicos",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "14:30",
+    "jogo": "2",
+    "codigo": "7",
+    "equipaA": "Anadia",
+    "equipaB": "Brandoense",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "14:30",
+    "jogo": "3",
+    "codigo": "13",
+    "equipaA": "GICA",
+    "equipaB": "Galitos A",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "14:30",
+    "jogo": "4",
+    "codigo": "19",
+    "equipaA": "Sangalhos B",
+    "equipaB": "Galitos B",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "14:30",
+    "jogo": "5",
+    "codigo": "25",
+    "equipaA": "Ovarense B",
+    "equipaB": "Esgueira B",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:05",
+    "jogo": "6",
+    "codigo": "2",
+    "equipaA": "Ovarense A",
+    "equipaB": "Illiabum A",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:05",
+    "jogo": "7",
+    "codigo": "8",
+    "equipaA": "Beira-Mar A",
+    "equipaB": "Esgueira A",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:05",
+    "jogo": "8",
+    "codigo": "14",
+    "equipaA": "Mealhada",
+    "equipaB": "SJ Ver",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:05",
+    "jogo": "9",
+    "codigo": "20",
+    "equipaA": "Oliveirense",
+    "equipaB": "Beira-Mar B",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:05",
+    "jogo": "10",
+    "codigo": "26",
+    "equipaA": "Campinho",
+    "equipaB": "Illiabum B",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:40",
+    "jogo": "11",
+    "codigo": "3",
+    "equipaA": "Sangalhos A",
+    "equipaB": "Illiabum A",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:40",
+    "jogo": "12",
+    "codigo": "9",
+    "equipaA": "Anadia",
+    "equipaB": "Esgueira A",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:40",
+    "jogo": "13",
+    "codigo": "15",
+    "equipaA": "GICA",
+    "equipaB": "SJ Ver",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:40",
+    "jogo": "14",
+    "codigo": "21",
+    "equipaA": "Sangalhos B",
+    "equipaB": "Beira-Mar B",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "15:40",
+    "jogo": "15",
+    "codigo": "31",
+    "equipaA": "Esgueira Fem",
+    "equipaB": "Illiabum Fem",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:15",
+    "jogo": "16",
+    "codigo": "27",
+    "equipaA": "Ovarense B",
+    "equipaB": "Illiabum B",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:15",
+    "jogo": "17",
+    "codigo": "4",
+    "equipaA": "Atómicos",
+    "equipaB": "Ovarense A",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:15",
+    "jogo": "18",
+    "codigo": "10",
+    "equipaA": "Brandoense",
+    "equipaB": "Beira-Mar A",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:15",
+    "jogo": "19",
+    "codigo": "16",
+    "equipaA": "Galitos A",
+    "equipaB": "Mealhada",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:15",
+    "jogo": "20",
+    "codigo": "22",
+    "equipaA": "Galitos B",
+    "equipaB": "Oliveirense",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:50",
+    "jogo": "21",
+    "codigo": "28",
+    "equipaA": "Esgueira B",
+    "equipaB": "Campinho",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:50",
+    "jogo": "22",
+    "codigo": "11",
+    "equipaA": "Anadia",
+    "equipaB": "Beira-Mar A",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:50",
+    "jogo": "23",
+    "codigo": "5",
+    "equipaA": "Sangalhos A",
+    "equipaB": "Ovarense A",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:50",
+    "jogo": "24",
+    "codigo": "17",
+    "equipaA": "GICA",
+    "equipaB": "Mealhada",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "16:50",
+    "jogo": "25",
+    "codigo": "32",
+    "equipaA": "Illiabum Fem",
+    "equipaB": "Beira-Mar fem",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "17:25",
+    "jogo": "26",
+    "codigo": "23",
+    "equipaA": "Sangalhos B",
+    "equipaB": "Oliveirense",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "17:25",
+    "jogo": "27",
+    "codigo": "29",
+    "equipaA": "Ovarense B",
+    "equipaB": "Campinho",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "17:25",
+    "jogo": "28",
+    "codigo": "6",
+    "equipaA": "Illiabum A",
+    "equipaB": "Atómicos",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "17:25",
+    "jogo": "29",
+    "codigo": "12",
+    "equipaA": "Esgueira A",
+    "equipaB": "Brandoense",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "17:25",
+    "jogo": "30",
+    "codigo": "18",
+    "equipaA": "SJ Ver",
+    "equipaB": "Galitos A",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "18:00",
+    "jogo": "31",
+    "codigo": "24",
+    "equipaA": "Beira-Mar B",
+    "equipaB": "Galitos B",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "18:00",
+    "jogo": "32",
+    "codigo": "30",
+    "equipaA": "Illiabum B",
+    "equipaB": "Esgueira B",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-10",
+    "horario": "18:00",
+    "jogo": "33",
+    "codigo": "33",
+    "equipaA": "Esgueira Fem",
+    "equipaB": "Beira-Mar fem",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "9:30",
+    "jogo": "1",
+    "codigo": "5",
+    "equipaA": "Beira-Mar Fem",
+    "equipaB": "Galitos Fem",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "9:30",
+    "jogo": "2",
+    "codigo": "6",
+    "equipaA": "Ovarense Fem A",
+    "equipaB": "Sangalhos Fem",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "9:30",
+    "jogo": "3",
+    "codigo": "8",
+    "equipaA": "Illiabum Fem",
+    "equipaB": "Ovarense Fem B",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:05",
+    "jogo": "4",
+    "codigo": "13",
+    "equipaA": "Sangalhos A",
+    "equipaB": "Galitos A",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:05",
+    "jogo": "5",
+    "codigo": "14",
+    "equipaA": "Esgueira A",
+    "equipaB": "Ovarense A",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:05",
+    "jogo": "6",
+    "codigo": "19",
+    "equipaA": "Vagos",
+    "equipaB": "Iilliabum",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:05",
+    "jogo": "7",
+    "codigo": "20",
+    "equipaA": "Brandoense",
+    "equipaB": "EM Benfica",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:05",
+    "jogo": "8",
+    "codigo": "26",
+    "equipaA": "Cerca",
+    "equipaB": "Campinho",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:40",
+    "jogo": "9",
+    "codigo": "31",
+    "equipaA": "Anadia",
+    "equipaB": "Beira-Mar",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:40",
+    "jogo": "10",
+    "codigo": "32",
+    "equipaA": "Ovarense B",
+    "equipaB": "Galitos B",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:40",
+    "jogo": "11",
+    "codigo": "37",
+    "equipaA": "GICA",
+    "equipaB": "Gafanha",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:40",
+    "jogo": "12",
+    "codigo": "38",
+    "equipaA": "Oliveirense",
+    "equipaB": "Esgueira B",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "10:40",
+    "jogo": "13",
+    "codigo": "25",
+    "equipaA": "Sangalhos B",
+    "equipaB": "SJ Ver",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:15",
+    "jogo": "14",
+    "codigo": "3",
+    "equipaA": "Beira-Mar Fem",
+    "equipaB": "Ovarense Fem A",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:15",
+    "jogo": "15",
+    "codigo": "4",
+    "equipaA": "Sangalhos Fem",
+    "equipaB": "Galitos Fem",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:15",
+    "jogo": "16",
+    "codigo": "9",
+    "equipaA": "Esgueira Fem",
+    "equipaB": "Ovarense Fem B",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:15",
+    "jogo": "17",
+    "codigo": "15",
+    "equipaA": "Sangalhos A",
+    "equipaB": "Ovarense A",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:15",
+    "jogo": "18",
+    "codigo": "16",
+    "equipaA": "Galitos A",
+    "equipaB": "Esgueira A",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:50",
+    "jogo": "19",
+    "codigo": "21",
+    "equipaA": "Vagos",
+    "equipaB": "EM Benfica",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:50",
+    "jogo": "20",
+    "codigo": "22",
+    "equipaA": "Iilliabum",
+    "equipaB": "Brandoense",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:50",
+    "jogo": "21",
+    "codigo": "33",
+    "equipaA": "Anadia",
+    "equipaB": "Galitos B",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:50",
+    "jogo": "22",
+    "codigo": "27",
+    "equipaA": "Sangalhos B",
+    "equipaB": "Campinho",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "11:50",
+    "jogo": "23",
+    "codigo": "28",
+    "equipaA": "SJ Ver",
+    "equipaB": "Cerca",
+    "campo": "Campo 5",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "12:25",
+    "jogo": "24",
+    "codigo": "39",
+    "equipaA": "GICA",
+    "equipaB": "Esgueira B",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "12:25",
+    "jogo": "25",
+    "codigo": "40",
+    "equipaA": "Gafanha",
+    "equipaB": "Oliveirense",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "12:25",
+    "jogo": "26",
+    "codigo": "34",
+    "equipaA": "Beira-Mar",
+    "equipaB": "Ovarense B",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-12",
+    "horario": "12:25",
+    "jogo": "27",
+    "codigo": "11",
+    "equipaA": "Esgueira Fem",
+    "equipaB": "Illiabum Fem",
+    "campo": "Campo 4",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "9:30",
+    "jogo": "1",
+    "codigo": "3",
+    "equipaA": "Galitos",
+    "equipaB": "Anadia",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "9:30",
+    "jogo": "2",
+    "codigo": "6",
+    "equipaA": "Esgueira Masc",
+    "equipaB": "Atómicos",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "9:30",
+    "jogo": "3",
+    "codigo": "9",
+    "equipaA": "Illiabum",
+    "equipaB": "Sangalhos",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:05",
+    "jogo": "4",
+    "codigo": "18",
+    "equipaA": "Illiabum",
+    "equipaB": "Campinho",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:05",
+    "jogo": "5",
+    "codigo": "15",
+    "equipaA": "Beira-Mar",
+    "equipaB": "Vagos",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:05",
+    "jogo": "6",
+    "codigo": "12",
+    "equipaA": "Gafanha",
+    "equipaB": "GICA",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:40",
+    "jogo": "7",
+    "codigo": "1",
+    "equipaA": "Anadia",
+    "equipaB": "Brandoense",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:40",
+    "jogo": "8",
+    "codigo": "4",
+    "equipaA": "Atómicos",
+    "equipaB": "Ovarense B",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "10:40",
+    "jogo": "9",
+    "codigo": "7",
+    "equipaA": "Sangalhos",
+    "equipaB": "Ovarense A",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:15",
+    "jogo": "10",
+    "codigo": "16",
+    "equipaA": "Campinho",
+    "equipaB": "Esgueira Fem",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:15",
+    "jogo": "11",
+    "codigo": "13",
+    "equipaA": "Vagos",
+    "equipaB": "Enesse",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:15",
+    "jogo": "12",
+    "codigo": "10",
+    "equipaA": "GICA",
+    "equipaB": "Oliveirense",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:50",
+    "jogo": "13",
+    "codigo": "2",
+    "equipaA": "Brandoense",
+    "equipaB": "Galitos",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:50",
+    "jogo": "14",
+    "codigo": "5",
+    "equipaA": "Ovarense B",
+    "equipaB": "Esgueira Masc",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "11:50",
+    "jogo": "15",
+    "codigo": "8",
+    "equipaA": "Ovarense A",
+    "equipaB": "Illiabum",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "12:25",
+    "jogo": "16",
+    "codigo": "17",
+    "equipaA": "Esgueira Fem",
+    "equipaB": "Anadia",
+    "campo": "Campo 1",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "12:25",
+    "jogo": "17",
+    "codigo": "14",
+    "equipaA": "Enesse",
+    "equipaB": "Beira-Mar",
+    "campo": "Campo 2",
+    "pavilhao": "Pavilhão 1"
+  },
+  {
+    "escalao": "Sub-8",
+    "horario": "12:25",
+    "jogo": "18",
+    "codigo": "11",
+    "equipaA": "Oliveirense",
+    "equipaB": "Gafanha",
+    "campo": "Campo 3",
+    "pavilhao": "Pavilhão 2"
+  }
+]
